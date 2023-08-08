@@ -107,7 +107,7 @@ def create_window():
 
     root["bg"] = "white"
 
-    root.title("Everyday Life")
+    root.title("Password Gen")
     root.geometry("400x175")
     root.resizable(False, False)
 
